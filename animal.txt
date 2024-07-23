@@ -1,0 +1,21 @@
+<html>
+<head>
+<titel>herasham animal </titel>
+tivimg
+idv 
+{
+
+	margin   :10px;
+	pedding :10px;
+	bagrand :10px red;
+	heate     :250px;
+	wednt    :250px;
+
+
+}
+
+</body>
+<img>
+<img sures>
+</head>
+</html>
